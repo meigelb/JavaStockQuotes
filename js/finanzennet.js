@@ -1,6 +1,7 @@
 // Script for Hibiscus Depot Viewer
 // Updated 03.01.2025 by @dirkhe
 // Updated 18.01.2025 by @dirkhe - Logging added
+// Updated 07.02.2026 by @jan-san
 
 /** start date for historic rates when no min date is set on the input */
 const DEFAULT_START_DATE = '2020-01-01';
