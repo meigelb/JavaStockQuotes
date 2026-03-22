@@ -20,7 +20,7 @@ function getAPIVersion() {
 }
 
 function getVersion() {
-  return "2025-01-18";
+  return "2026-03-18";
 }
 
 function getURL() {
