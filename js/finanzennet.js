@@ -23,10 +23,6 @@ function getVersion() {
   return "2025-01-18";
 }
 
-function getDate(year, month, day) {
-  return new java.util.Date(year - 1900, month - 1, day);
-}
-
 function getURL() {
   return "http://www.finanzen.net";
 }
